@@ -1,0 +1,25 @@
+wm.gaps.inner.size: 10
+!regolith.look.path: /usr/share/regolith-look/blackhole
+regolith.look.path: /usr/share/regolith-look/lascaille
+
+## Lock screen program
+wm.program.lock: /home/toni/projects/scripts/lockscreen/lock.sh
+
+
+## Windows
+wm.window.border.size: 2
+wm.client.focused_inactive.color.border: #951cff
+wm.client.focused.color.child_border: #951cff
+wm.client.focused.color.background: #951cff
+
+
+## Bar
+##__wm.bar.position: top
+wm.bar.separatorchar: |
+i3xrocks.date.format2: %X %m-%d-%Y w%V
+
+
+## Workspaces
+wm.bar.workspace.focused.background.color: #951cff
+wm.bar.workspace.focused.text.color: #ffffff
+wm.bar.workspace.focused.border.color: #ffffff

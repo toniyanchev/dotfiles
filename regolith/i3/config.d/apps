@@ -1,0 +1,21 @@
+
+## Default WSP for apps
+assign [class="jetbrains-rider"] $ws2
+assign [class="crx_cifhbcnohmdccbgoicgdjpfamggdegmo"] $ws5
+assign [class="Brave"] $ws4
+assign [class="DBeaver"] $ws6
+assign [class="VirtualBox Manager"] $ws8
+assign [class="Viber"] $ws9
+
+## VsCode
+assign [class="Code"] $ws2
+for_window [class="Code"] layout tabbed
+
+## CopyQ
+for_window [instance="copyq"] floating enable
+
+## ToDo CLI
+bindsym $mod+Ctrl+t exec --no-startup-id "/usr/bin/gnome-terminal --class=floating_window -e 'td --interactive -g work'"
+
+## Calendar
+for_window [class="Gnome-calendar"] floating enable
