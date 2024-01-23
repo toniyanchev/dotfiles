@@ -1,15 +1,18 @@
 
 ## Default WSP for apps
-assign [class="jetbrains-rider"] $ws2
 assign [class="crx_cifhbcnohmdccbgoicgdjpfamggdegmo"] $ws5
-assign [class="Brave"] $ws4
+assign [class="Brave"] $ws3
 assign [class="DBeaver"] $ws6
 assign [class="VirtualBox Manager"] $ws8
 assign [class="Viber"] $ws9
 
 ## VsCode
 assign [class="Code"] $ws2
-for_window [class="Code"] layout tabbed
+for_window [class="Code"] layout stacking
+
+## Rider
+assign [class="jetbrains-rider"] $ws2
+for_window [class="jetbrains-rider"] layout stacking
 
 ## CopyQ
 for_window [instance="copyq"] floating enable
