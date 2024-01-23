@@ -7,12 +7,12 @@ assign [class="VirtualBox Manager"] $ws8
 assign [class="Viber"] $ws9
 
 ## VsCode
-assign [class="Code"] $ws2
 for_window [class="Code"] layout stacking
+assign [class="Code"] $ws2
 
 ## Rider
-assign [class="jetbrains-rider"] $ws2
 for_window [class="jetbrains-rider"] layout stacking
+assign [class="jetbrains-rider"] $ws2
 
 ## CopyQ
 for_window [instance="copyq"] floating enable
