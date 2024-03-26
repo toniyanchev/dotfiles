@@ -20,6 +20,12 @@ i3xrocks.date.format2: %X %m-%d-%Y w%V
 
 
 ## Workspaces
+wm.workspace.01.name: 1:1 Terminal
+wm.workspace.02.name: 2:2 Code
+wm.workspace.03.name: 3:3 Brave
+wm.workspace.04.name: 4:4 Teams
+wm.workspace.06.name: 6:6 DB
+
 wm.bar.workspace.focused.background.color: #951cff
 wm.bar.workspace.focused.text.color: #ffffff
 wm.bar.workspace.focused.border.color: #ffffff
