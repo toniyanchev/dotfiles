@@ -1,8 +1,11 @@
 
+## Retrieve window info with - $ xprop
+
 ## Default WSP for apps
 assign [class="crx_cifhbcnohmdccbgoicgdjpfamggdegmo"] $ws5
 assign [class="DBeaver"] $ws6
-assign [class="VirtualBox Manager"] $ws8
+assign [class="VirtualBox Manager"] $ws7
+assign [class="Caprine"] $ws8
 assign [class="Viber"] $ws9
 
 ## VsCode
