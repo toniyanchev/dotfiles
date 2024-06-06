@@ -3,22 +3,25 @@
 
 ## Default WSP for apps
 assign [class="crx_cifhbcnohmdccbgoicgdjpfamggdegmo"] $ws5
-assign [class="DBeaver"] $ws6
 assign [class="VirtualBox Manager"] $ws7
 assign [class="Caprine"] $ws8
 assign [class="Viber"] $ws9
 
-## VsCode
+## Code
 for_window [class="Code"] layout stacking
 assign [class="Code"] $ws2
-
-## Rider
 for_window [class="jetbrains-rider"] layout stacking
 assign [class="jetbrains-rider"] $ws2
 
 ## Brave
 for_window [class="Brave"] layout stacking
 assign [class="Brave"] $ws3
+
+## DB
+assign [class="DBeaver"] $ws6
+for_window [class="DBeaver"] layout stacking
+assign [class="MongoDB Compass"] $ws6
+for_window [class="MongoDB Compass"] layout stacking
 
 ## CopyQ
 for_window [instance="copyq"] floating enable
