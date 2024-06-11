@@ -31,3 +31,6 @@ bindsym $mod+Ctrl+t exec --no-startup-id "/usr/bin/gnome-terminal --class=floati
 
 ## Calendar
 for_window [class="Gnome-calendar"] floating enable
+
+## Calculator
+for_window [class="Gnome-calculator"] floating enable
