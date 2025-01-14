@@ -2,7 +2,7 @@
 ## Retrieve window info with - $ xprop
 
 ## Default WSP for apps
-assign [class="crx_cifhbcnohmdccbgoicgdjpfamggdegmo"] $ws5
+assign [class="gnome-todo"] $ws5
 assign [class="VirtualBox Manager"] $ws7
 assign [class="Caprine"] $ws8
 assign [class="Viber"] $ws9
@@ -25,9 +25,6 @@ for_window [class="MongoDB Compass"] layout stacking
 
 ## CopyQ
 for_window [instance="copyq"] floating enable
-
-## ToDo CLI
-bindsym $mod+Ctrl+t exec --no-startup-id "/usr/bin/gnome-terminal --class=floating_window -e 'td --interactive -g work'"
 
 ## Calendar
 for_window [class="Gnome-calendar"] floating enable

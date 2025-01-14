@@ -24,6 +24,7 @@ wm.workspace.01.name: 1:1 Terminal
 wm.workspace.02.name: 2:2 Code
 wm.workspace.03.name: 3:3 Brave
 wm.workspace.04.name: 4:4 Teams
+wm.workspace.05.name: 5:5 TODO
 wm.workspace.06.name: 6:6 DB
 
 wm.bar.workspace.focused.background.color: #951cff
