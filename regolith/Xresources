@@ -1,6 +1,4 @@
 wm.gaps.inner.size: 10
-!regolith.look.path: /usr/share/regolith-look/blackhole
-regolith.look.path: /usr/share/regolith-look/lascaille
 
 ## Lock screen program
 wm.program.lock: /home/toni/projects/scripts/lockscreen/lock.sh
@@ -30,3 +28,5 @@ wm.workspace.06.name: 6:6 DB
 wm.bar.workspace.focused.background.color: #951cff
 wm.bar.workspace.focused.text.color: #ffffff
 wm.bar.workspace.focused.border.color: #ffffff
+!regolith.look.path: /usr/share/regolith-look/ayu-mirage
+regolith.look.path: /usr/share/regolith-look/dracula
