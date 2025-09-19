@@ -1,0 +1,246 @@
+<scheme name="Darcula TONI" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2025.2.2.0.0</property>
+    <property name="originalScheme">Darcula TONI</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="C3E887" />
+    <option name="FILESTATUS_DELETED" value="F77669" />
+    <option name="FILESTATUS_HIJACKED" value="FFCB6B" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="C78BA1" />
+    <option name="FILESTATUS_MERGED" value="B78FCC" />
+    <option name="FILESTATUS_MODIFIED" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80CBC4" />
+    <option name="FILESTATUS_OBSOLETE" value="FFCB6B" />
+    <option name="FILESTATUS_SUPPRESSED" value="546E7A" />
+    <option name="FILESTATUS_SWITCHED" value="F77669" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="STICKY_LINES_BACKGROUND" value="0074C2" />
+  </colors>
+  <attributes>
+    <option name="BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="c02c2c" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="cfda39" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ACCESSOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ALIAS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ATTRIBUTE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_BUILTIN_TYPE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="597abd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_COMMA">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONSTANT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="3ab5b5" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_FLOW_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="597abd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_CONTROL_TRANSFER_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="597abd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_ENUM_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc9ed9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_EVENT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ad81e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_EXTENSION_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b185ec" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="597abd" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_FUNCTION_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_MUTABLE_LOCAL_VARIABLE_IDENTIFIER">
+      <value>
+        <option name="EFFECT_COLOR" value="707d95" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ff76ab" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_OPERATOR_SIGN">
+      <value />
+    </option>
+    <option name="ReSharper.CSHARP_OVERLOADED_OPERATOR">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PRIMARY_CONSTRUCTOR_PARAMETER_CAPTURED_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="2ad3d3" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PRIMARY_CONSTRUCTOR_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="32d2d2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="5fb2b2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_RECORD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc9ed9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_RECORD_STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cc9ed9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="d7d7d7" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_CLASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="48adad" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_METHOD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="1cad7b" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STATIC_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="48adad" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STRING">
+      <value>
+        <option name="FOREGROUND" value="ffb250" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_STRUCT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="a370e8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffdc" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="ERROR_STRIPE_COLOR" value="977ab" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
